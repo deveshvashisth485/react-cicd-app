@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>DevOps Internship Session 3</h1>
-
+          <h2>Feature Branch Update</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
